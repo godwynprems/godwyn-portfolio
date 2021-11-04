@@ -10,3 +10,9 @@ https://youtu.be/E1dqffpUlMA
 ## Credits
 
 Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+
+
+## Deployment
+portfolio deployed on vercel.com, which is connected with your github credentials.
+
+https://godwynd.vercel.app/
